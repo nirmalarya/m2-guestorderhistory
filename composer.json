@@ -1,15 +1,11 @@
 {
     "name": "nirmalarya/module-guestorderhistory",
-    "description": "Implement Guest Order History",
+    "description": "Implement Guest Order History feature in Magento 2",
     "license": "OSL-3.0",
     "authors": [
         {
-            "name": "Mage2Gen",
-            "email": "info@mage2gen.com"
-        },
-        {
             "name": "Nirmal Arya",
-            "email": "nirmalkumararya@gmail.com"
+            "email": "hello@nirmalarya.com"
         }
     ],
     "minimum-stability": "dev",
