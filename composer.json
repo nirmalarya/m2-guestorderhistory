@@ -1,5 +1,5 @@
 {
-    "name": "nirmalarya/module-ordercontroller",
+    "name": "nirmalarya/module-guestorderhistory",
     "description": "Implement guest order history feature",
     "license": "OSL-3.0",
     "authors": [
