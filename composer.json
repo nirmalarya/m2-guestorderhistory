@@ -8,7 +8,7 @@
             "email": "hello@nirmalarya.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "alpha",
     "require": {},
     "autoload": {
         "files": [
